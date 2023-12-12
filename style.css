@@ -1,0 +1,41 @@
+body
+{
+    color: Black;
+    text-align: center;
+}
+
+p {
+    font-family: times new roman;
+    font-size: 90px;
+}
+
+    center {
+    text-align: center;
+ }
+
+button {
+    background: #1e90ff;
+    margin: 10px;
+    padding: 10px;
+    font-family: times new roman;
+    font-size: 20px;
+    color: black;
+}
+.navbar{
+    display: flex;
+    align-items: right;
+    padding: 2px;
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul{
+   display: inline-block;
+   list-style-type: none;
+}
+
+nav ul li{
+   display: inline-block;
+   margin-right: 20px;
+}
